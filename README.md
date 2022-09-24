@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=rlaghdtlr012%20Gitub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=rlaghdtlr012%20Github&fontSize=90)
 
 ## 💻Tech Skills
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/>    <img src="https://img.shields.io/badge/python-9cf?style=flat-square&logo=python&logoColor=white"/>    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>    <img src="https://img.shields.io/badge/JAVA-9cf?style=flat-square&logo=CoffeeScript&logoColor=white"/>    
@@ -6,3 +6,9 @@
 
 ## 👨🏻‍🤝‍👨🏻Collaboration & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaghdtlr012&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaghdtlr012&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rlaghdtlr012)](https://github.com/anuraghazra/github-readme-stats)
