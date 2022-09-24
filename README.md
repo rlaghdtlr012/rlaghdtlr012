@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlaghdtlr012&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlaghdtlr012&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlaghdtlr012&theme=dark)
 <br><br>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlr012)]
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlr012)
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaghdtlr012&langs_count=8)
