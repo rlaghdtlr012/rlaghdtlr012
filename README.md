@@ -16,5 +16,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlaghdtlr012&theme=dark)
 <br><br>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaghdtlr012)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlaghdtlr012&langs_count=8)
